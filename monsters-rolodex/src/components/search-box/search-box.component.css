@@ -1,0 +1,12 @@
+.search-box{
+    top: 0%;
+    left: 40%;
+    height: 35px;
+    width: 400px;
+    margin-top: 5px;
+    border-radius: 15px;
+    border: 2px solid #fff;
+    text-align: center;
+    font-size: 1.4rem;
+    color: black;
+  }
